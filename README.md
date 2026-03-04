@@ -21,7 +21,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
  **01: Illo un campero** -  Grupo 1: José Antonio Fernandez Guerrero | Miguel Macías del Pino | Bryan Linares González
     - [Repositorio del proyecto](https://github.com)
     
-  **02: Safebite** -  Grupo 2: Josefa Macías Manceras | Marcos Zapata Molis | Antonio Dominguez Carmona  
+ **02: Safebite** -  Grupo 2: Josefa Macías Manceras | Marcos Zapata Molis | Antonio Dominguez Carmona  
     - [Repositorio del proyecto](https://github.com)
     
      
@@ -80,6 +80,7 @@ suficiente a su presentación.
 ---
 
 ## :school: Lugar de las exposiciones
+
 
 
 
