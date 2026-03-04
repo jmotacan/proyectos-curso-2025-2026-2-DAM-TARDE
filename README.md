@@ -12,7 +12,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 
 
 * [Ana María Cabello González]()
-* [José Mota Cano](https://github.com/jmotcan)
+* [José Mota Cano](https://github.com/jmotacan)
 * [Fernando Toro](https://github.com/fpftoro)
 * [Galina Georgieva Dimitrova](https://github.com/galinadim)
 
@@ -80,6 +80,7 @@ suficiente a su presentación.
 ---
 
 ## :school: Lugar de las exposiciones
+
 
 
 
