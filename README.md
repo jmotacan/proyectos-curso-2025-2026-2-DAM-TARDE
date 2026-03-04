@@ -1,31 +1,55 @@
-# Proyectos Final de Ciclo de 2º ASIR
+# Proyectos Final de Ciclo de 2º DAM-T
 **curso 2025|26**
 
-En este repositorio se encuentra centralizada toda la información relativa a los **Proyectos de Administración de Sistemas Informáticos en Red del CPIFP Alan Turing** (proyectos de fin de ciclo), en la convocatoria del curso 2025|26.
+En este repositorio se encuentra centralizada toda la información relativa a los **Proyectos de Desarrollo de Aplicaciones MULTIPLATAFORMA** (Turno de tarde) del CPIFP Alan Turing** (proyectos de fin de ciclo), en la convocatoria del curso 2025|26.
 
 ## Requisitos y criterios a seguir
 
-Tanto los criterios generales como los criterios particulares por cada módulo se encuentran en [la Wiki de este repositorio](https://github.com/CPIFPAlanTuring/2asir-tfc-2526/wiki).
-
+Tanto los criterios generales como los criterios particulares por cada módulo se encuentran en [la Moode del módulo del Proyecto Intermodular]
 ## Profesores
 
 La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 
-* [David Hormigo]()
-* [Federico Huércano]()
-* [Javier Úbeda]()
+
+* [Ana María Cabello González]()
+* [José Mota Cano](https://github.com/jmotcan)
 * [Fernando Toro](https://github.com/fpftoro)
 * [Galina Georgieva Dimitrova](https://github.com/galinadim)
 
 ## Índice a los proyectos de cada alumno
 
-* **01: Sistema de Gestión de Reservas - Autos Costa Sol** - Juan Carlos García Calvo
+ **01: Intellcar** -  Grupo 1: José Manuel Villanúa Pozo | Juan Benítez Muñoz
+    - [Repositorio del proyecto](https://github.com/jvilpoz1105/IntellCar_IntermodularProject)
     
-    - [Repositorio del proyecto](https://github.com/Juancarlostfg/gestion_reservas)
+  **02: BOOKSHELF** -  Grupo 2: José María Caracuel Menacho | Jesús Moreno Bernal   
+    - [Repositorio del proyecto](https://github.com/ftoledo-26/bookshell)
     
-  
-  
-  
+  **03: Sistema de Gestión de Reservas - Autos Costa Sol** -  Grupo 3: Ainhoa Quintero Gonzáles | Adriana Salazar Daza | Joaquín Ruiz Jiménez
+    - [Repositorio del proyecto]()
+    
+  **04: Tech Universe** -  Grupo 4: Iván Ríos Raya | Alexander Sánchez Jara  
+    - [Repositorio del proyecto](https://github.com/Ivanrr462/Tech-Universe)
+    
+  **05: Nombre del proyecto** -  Grupo 5: José Cortés Martín | Nicolás Jiménez Gutiérrez
+    - [Repositorio del proyecto](https://github.com/josecoortes/Proyecto-final.git)
+    
+  **06: J-J-PROYECT** -  Grupo 6:  Jaime Gavilán Torrero | Jesús Ríos López
+    - [Repositorio del proyecto](https://github.com/JaimeDVP562/J-J-PROYECTO-INTERMODULAR.git)
+    
+  **07: Sistema de Gestión de Reservas - Autos Costa Sol** -  Grupo 7: Juan Carlos Alarcón Pedraza | María Ledesma Zotano
+    - [Repositorio del proyecto]()
+    
+  **08: MAR ADENTRO** -  Grupo 8: Manuel Robles Guerrero | José Antonio Lorente Moya
+    - [Repositorio del proyecto](https://github.com/ManuelGR-clase/MAR-ADENTRO)
+    
+  **09: Viaja Más** -  Cristina Fernández Fernández 
+    - [Repositorio del proyecto](https://github.com/CristinaFdezFdez/Proyecto-final)
+    
+  **10: Wiki Ark** - Iván Calatayud Merino
+    - [Repositorio del proyecto](https://github.com/Icame05/WikiArk)
+    
+
+   
 
 ## ⏰ Cuadrante horario de las exposiciones
 
@@ -33,24 +57,30 @@ La fecha y hora de exposición del alumnado se comunicará a través de este can
 suficiente a su presentación.
 
 ## 📝 Fechas a tener en cuenta para exponer en la 1ª evaluación
-* Anteproyecto: **27 de octubre de 2025**
-* Revisión (checkpoint): **10 de noviembre de 2025**
-* Segunda Revisión (2º checkpoint): **24 de noviembre de 2025**
-* Entrega de proyecto: **15 de diciembre de 2025**
-* Exposiciones: **17 de diciembre de 2025**
+* Anteproyecto: **30 de abril de 2026**
+* Revisión: **4 de mayo de 2026**
+* Entrega de proyecto: **15 de mayo de 2026**
+* Exposiciones: **1 de junio de 2026**
 
-#### :calendar: miércoles 17 de diciembre de 2025
-
-- [ ] 18:00h **Sistema de Gestión de Reservas - Autos Costa Sol** - Juan Carlos García Calvo
+#### :calendar: lunes 1 de junio de 2026
+- [ ] 09:00h **Proyecto xx** - Alumno xx
+- [ ] 09:20h **Proyecto xx** - Alumno xx
+- [ ] 09:40h **Proyecto xx** - Alumno xx
+- [ ] 10:00h **Proyecto xx** - Alumno xx
+- [ ] 10:20h **Proyecto xx** - Alumno xx
+- [ ] 10:40h **Proyecto xx** - Alumno xx
+- [ ] 11:00h **Proyecto xx** - Alumno xx
+- [ ] 11:20h **Proyecto xx** - Alumno xx
+- [ ] 11:40h **Proyecto xx** - Alumno xx
+- [ ] 12:00h **Proyecto xx** - Alumno xx
 
 ## 📝 Fechas a tener en cuenta para exponer en la 2ª evaluación
-* Anteproyecto: **28 de enero de 2026**
-* Revisión (checkpoint): **16 de febrero de 2026**
-* Segunda Revisión (2º checkpoint): **02 de marzo de 2026**
-* Entrega de proyecto: **13 de marzo de 2026**
-* Exposiciones: **17 de marzo de 2026**
+* Anteproyecto: **15 de mayo de 2026**
+* Revisión: **18 de mayo de 2026**
+* Entrega de proyecto: **29 de mayo de 2026**
+* Exposiciones: **22 de junio de 2026**
 
-#### :calendar: martes 17 de marzo de 2026
+#### :calendar: lunes 22 de junio de 2026
 
 - [ ] 09:00h **Proyecto xx** - Alumno xx
 - [ ] 09:20h **Proyecto xx** - Alumno xx
@@ -73,4 +103,21 @@ suficiente a su presentación.
 ---
 
 ## :school: Lugar de las exposiciones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
