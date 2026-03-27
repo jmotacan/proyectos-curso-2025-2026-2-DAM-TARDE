@@ -5,7 +5,7 @@ En este repositorio se encuentra centralizada toda la información relativa a lo
 
 ## Requisitos y criterios a seguir
 
-Tanto los criterios generales como los criterios particulares por cada módulo se encuentran en [la Moode del módulo del Proyecto Intermodular]
+Tanto los criterios generales como los criterios particulares por cada módulo se encuentran en la Moodle proyecto Intermodular
 ## Profesores
 
 La siguiente lista cuenta con los usuarios de GitHub del profesorado:
@@ -37,31 +37,7 @@ suficiente a su presentación.
 * Anteproyecto: **30 de abril de 2026**
 * Revisión: **4 de mayo de 2026**
 * Entrega de proyecto: **15 de mayo de 2026**
-* Exposiciones: **1 de junio de 2026**
-
-#### :calendar: lunes 1 de junio de 2026
-- [ ] 09:00h **Proyecto xx** - Alumno xx
-- [ ] 09:20h **Proyecto xx** - Alumno xx
-- [ ] 09:40h **Proyecto xx** - Alumno xx
-- [ ] 10:00h **Proyecto xx** - Alumno xx
-- [ ] 10:20h **Proyecto xx** - Alumno xx
-- [ ] 10:40h **Proyecto xx** - Alumno xx
-- [ ] 11:00h **Proyecto xx** - Alumno xx
-- [ ] 11:20h **Proyecto xx** - Alumno xx
-- [ ] 11:40h **Proyecto xx** - Alumno xx
-- [ ] 12:00h **Proyecto xx** - Alumno xx
-
-## 📝 Fechas a tener en cuenta para exponer en la 2ª evaluación
-* Anteproyecto: **15 de mayo de 2026**
-* Revisión: **18 de mayo de 2026**
-* Entrega de proyecto: **29 de mayo de 2026**
-* Exposiciones: **22 de junio de 2026**
-
-#### :calendar: lunes 22 de junio de 2026
-
-- [ ] 09:00h **Proyecto xx** - Alumno xx
-- [ ] 09:20h **Proyecto xx** - Alumno xx
-- [ ] 09:50h **Proyecto xx** - Alumno xx
+* Exposiciones: **2 de junio de 2026**
 
 ---
 ## Guía para la presentación - apartados de la presentación
