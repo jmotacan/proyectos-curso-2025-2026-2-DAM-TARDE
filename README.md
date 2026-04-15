@@ -37,7 +37,7 @@ suficiente a su presentación.
 * Anteproyecto: **30 de abril de 2026**
 * Revisión: **4 de mayo de 2026**
 * Entrega de proyecto: **15 de mayo de 2026**
-* Exposiciones: **2 de junio de 2026**
+* Exposiciones: **4 de junio de 2026**
 
 ---
 ## Guía para la presentación - apartados de la presentación
